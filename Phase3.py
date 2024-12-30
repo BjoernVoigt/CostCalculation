@@ -1,12 +1,3 @@
-""""
-- fix search for colours
-    - work on manual input
-        - fix that final price updates with changing from optimal to manual and back
-        - fix choosing between width length height
-        - add option for hanger and implement different options here
-    - currently if you change file then the price is not changing, but once you change color or quantity it will update, color and quantity changes are triggers for price update
-"""
-
 import sys
 import os
 import math
